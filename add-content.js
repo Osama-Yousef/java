@@ -41,7 +41,7 @@ var showorder = function(){
             orderimage += '<img src = "images/house.png">';
         }
     }
-    return orderimage ;
+    return showorder ;
     }
     
     document.write('<p>'+showorder()+'</p>');
